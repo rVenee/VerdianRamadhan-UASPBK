@@ -71,7 +71,7 @@ State manajemen menggunakan **Pinia** pada `stores/transaksiStore.js`:
 
 ### 1. Clone repositori:
 ```bash
-git clone https://github.com/username/vallet-app.git
+git clone https://github.com/rVenee/VerdianRamadhan-UASPBK.git
 cd vallet-app
 ```
 ### 2. Install depedency:
@@ -125,7 +125,7 @@ src/
 Aplikasi ini telah di-deploy di Vercel.
 Kamu bisa mengakses aplikasinya secara online di:
 
-🔗 https://vallet-app.vercel.app
+🔗 https://verdian-ramadhan-uaspbk.vercel.app
 
 ---
 
