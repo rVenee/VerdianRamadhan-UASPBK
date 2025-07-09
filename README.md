@@ -71,7 +71,7 @@ State manajemen menggunakan **Pinia** pada `stores/transaksiStore.js`:
 
 ### 1. Clone repositori:
 ```bash
-git clone https://github.com/rVenee/VerdianRamadhan-UASPBK.git
+git clone https://github.com/rVenee/VerdianRamadhan-UASPBK.git vallet-app
 cd vallet-app
 ```
 ### 2. Install depedency:
